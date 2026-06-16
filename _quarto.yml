@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Ching-Lin Huang "
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+
+      - href: CV.qmd
+        text: CV
+
+      - href: blog.qmd
+        text: Blog
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+editor: visual
+

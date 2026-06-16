@@ -1,0 +1,9 @@
+---
+title: "My First Post"
+date: 2026-06-15
+categories:
+  - Ecology
+  - Theory
+---
+
+This is my first test post.
